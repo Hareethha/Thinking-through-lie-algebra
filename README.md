@@ -1,1 +1,1 @@
-# Thinking-through-lie-algebra
+# Thinking Through Lie Algebra
