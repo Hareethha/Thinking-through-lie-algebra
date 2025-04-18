@@ -1,1 +1,1 @@
-# Thinking Through Lie Algebra
+# Thinking Through Lie Algebra : Structure and Applications
